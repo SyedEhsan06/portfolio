@@ -1,0 +1,36 @@
+/* Hero.css */
+
+.main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0; /* Set a background color for visibility */
+  }
+  
+  .centered {
+    text-align: center;
+  }
+  
+  .nameText {
+    font-size: 5rem;
+    font-weight: 400;
+  }
+  
+  .fullStack {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  .nameText{
+    color: #333;
+  }
+  .nameText ::selection{
+    background-color: #333;
+    color: #f0f0f0;
+  }
+  .fullStack ::selection{
+    font-family: serif;
+    background-color: #333;
+    color: #f0f0f0;
+  }
+  
