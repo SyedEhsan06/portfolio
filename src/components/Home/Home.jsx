@@ -78,7 +78,6 @@ const Home = () => {
       <Technologies />
       </div>
       <div className="project">
-     
         <Projects />
       </div>
     </div>
