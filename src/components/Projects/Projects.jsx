@@ -89,6 +89,7 @@ const Projects = () => {
       github: "https://github.com/SyedEhsan06/BubbleGame",
       fullimage: "/Bubblegamescreen.png",
       link: "https://bubblegamesiu.netlify.app/",
+      tech:["Javascript", "HTML", "CSS"],
     },
     {
       name: "Social Media",
