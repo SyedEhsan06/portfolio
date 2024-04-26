@@ -221,7 +221,7 @@ const Projects = () => {
           )}
           {hoverImage && (
             <img
-              src={selectedProject ? selectedProject.fullimage : hoverImage}
+              src={selectedProject?.fullimage}
               alt="preview"
               className="h-[100%] w-[100%]"
             />
